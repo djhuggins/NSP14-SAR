@@ -3,10 +3,10 @@ SAR Data for 637 compounds accompanying the paper "Discovery, Optimization, and 
 
 Information is as follows:
 
-SMILES
+- SMILES
 
-MTase IC50 (micromolar)
+- MTase IC50 (micromolar)
 
-Delta Tm - SAH/nsp14 (degrees Celsius)
+- Delta Tm - SAH/nsp14 (degrees Celsius)
 
-Cell EC50 (micromolar)
+- Cell EC50 (micromolar)
